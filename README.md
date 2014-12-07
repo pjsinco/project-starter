@@ -31,3 +31,15 @@ gem install compass-normalize
 ```markup
 script(src='http://localhost:35729/livereload.js')
 ```
+
+**Maybe update Sass**
+```bash
+gem update sass
+```
+
+**Using a Bower package?**
+See the .bowerrc file
+
+```bash
+bower init
+```
